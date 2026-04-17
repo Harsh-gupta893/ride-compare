@@ -68,7 +68,7 @@ Clone the Repository:
 Bash
 
 
-git clone https://github.com/your-username/cab-compare.git
+git clone https:/Harsh-gupta893/github.com//ride-compare.git
 cd cab-compare
 
 
